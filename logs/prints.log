@@ -1,0 +1,6 @@
+  19:04:00.410  [TestNG-tests-1] INFO  testcases.HomePageTest - Url is opened
+  19:04:04.449  [TestNG-tests-1] INFO  testcases.HomePageTest - Success
+  19:35:56.327  [TestNG-tests-1] INFO  testcases.HomePageTest - Driver is initialized
+  19:36:13.203  [TestNG-tests-2] INFO  testcases.HomePageTest - Amazon site is opened
+  19:36:24.797  [TestNG-tests-1] INFO  testcases.HomePageTest - Url is opened
+  19:36:27.459  [TestNG-tests-1] INFO  testcases.HomePageTest - Success

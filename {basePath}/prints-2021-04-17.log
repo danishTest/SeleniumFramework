@@ -1,0 +1,8 @@
+  20:05:34.430  [TestNG-tests-1] INFO  base.Base - msg
+  20:06:14.422  [TestNG-tests-1] INFO  base.Base - msg
+  20:06:34.625  [TestNG-tests-1] INFO  base.Base - msg
+  16:48:25.355  [TestNG-tests-1] INFO  testcases.HomePageTest - msg
+  16:49:01.504  [TestNG-tests-1] INFO  testcases.HomePageTest - msg
+  16:49:03.135  [TestNG-tests-1] INFO  testcases.HomePageTest - msg
+  16:49:03.805  [TestNG-tests-1] INFO  testcases.HomePageTest - msg
+  19:03:21.591  [TestNG-tests-1] INFO  testcases.HomePageTest - Driver is initialized
